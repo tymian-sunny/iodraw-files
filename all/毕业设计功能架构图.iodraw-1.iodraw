@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tGw8cYsApNTdPxlF2TVG-6" value="志愿者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="390" width="70" height="20" as="geometry" />
+          <mxGeometry x="410" y="390" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tGw8cYsApNTdPxlF2TVG-7" value="系统管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="400" width="70" height="20" as="geometry" />
@@ -79,8 +79,14 @@
         <mxCell id="tGw8cYsApNTdPxlF2TVG-17" value="个人信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="460" width="20" height="180" as="geometry" />
         </mxCell>
+        <mxCell id="tGw8cYsApNTdPxlF2TVG-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="tGw8cYsApNTdPxlF2TVG-18" target="tGw8cYsApNTdPxlF2TVG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tGw8cYsApNTdPxlF2TVG-18" value="身份管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="460" width="20" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="tGw8cYsApNTdPxlF2TVG-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="tGw8cYsApNTdPxlF2TVG-19" target="tGw8cYsApNTdPxlF2TVG-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tGw8cYsApNTdPxlF2TVG-19" value="视频接听" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="460" width="20" height="180" as="geometry" />
