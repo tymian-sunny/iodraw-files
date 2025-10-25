@@ -80,43 +80,43 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tGw8cYsApNTdPxlF2TVG-16" value="登录注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="460" width="20" height="150" as="geometry" />
+          <mxGeometry x="410" y="460" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="tGw8cYsApNTdPxlF2TVG-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="tGw8cYsApNTdPxlF2TVG-17" target="tGw8cYsApNTdPxlF2TVG-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tGw8cYsApNTdPxlF2TVG-17" value="个人信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="460" width="20" height="150" as="geometry" />
+          <mxGeometry x="440" y="460" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="tGw8cYsApNTdPxlF2TVG-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="tGw8cYsApNTdPxlF2TVG-18" target="tGw8cYsApNTdPxlF2TVG-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tGw8cYsApNTdPxlF2TVG-18" value="身份管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="460" width="20" height="150" as="geometry" />
+          <mxGeometry x="470" y="460" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="tGw8cYsApNTdPxlF2TVG-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="tGw8cYsApNTdPxlF2TVG-19" target="tGw8cYsApNTdPxlF2TVG-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tGw8cYsApNTdPxlF2TVG-19" value="视频接听" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="460" width="20" height="150" as="geometry" />
+          <mxGeometry x="500" y="460" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="tGw8cYsApNTdPxlF2TVG-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="tGw8cYsApNTdPxlF2TVG-20" target="tGw8cYsApNTdPxlF2TVG-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tGw8cYsApNTdPxlF2TVG-20" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="460" width="20" height="150" as="geometry" />
+          <mxGeometry x="530" y="460" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="tGw8cYsApNTdPxlF2TVG-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="tGw8cYsApNTdPxlF2TVG-21" target="tGw8cYsApNTdPxlF2TVG-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tGw8cYsApNTdPxlF2TVG-21" value="个人信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="460" width="20" height="150" as="geometry" />
+          <mxGeometry x="560" y="460" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="tGw8cYsApNTdPxlF2TVG-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="tGw8cYsApNTdPxlF2TVG-22" target="tGw8cYsApNTdPxlF2TVG-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tGw8cYsApNTdPxlF2TVG-22" value="用户状态管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="460" width="20" height="150" as="geometry" />
+          <mxGeometry x="590" y="460" width="20" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
