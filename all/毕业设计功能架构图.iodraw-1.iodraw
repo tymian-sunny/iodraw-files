@@ -118,8 +118,14 @@
         <mxCell id="tGw8cYsApNTdPxlF2TVG-22" value="用户状态管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="460" width="20" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="tGw8cYsApNTdPxlF2TVG-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="tGw8cYsApNTdPxlF2TVG-46" target="tGw8cYsApNTdPxlF2TVG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tGw8cYsApNTdPxlF2TVG-46" value="AI音色管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="460" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="tGw8cYsApNTdPxlF2TVG-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="tGw8cYsApNTdPxlF2TVG-47" target="tGw8cYsApNTdPxlF2TVG-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tGw8cYsApNTdPxlF2TVG-47" value="视频接听" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="460" width="20" height="150" as="geometry" />
