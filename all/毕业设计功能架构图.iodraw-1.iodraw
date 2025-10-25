@@ -22,13 +22,13 @@
         <mxCell id="tGw8cYsApNTdPxlF2TVG-7" value="系统管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="400" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tGw8cYsApNTdPxlF2TVG-8" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tGw8cYsApNTdPxlF2TVG-8" value="登录注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="460" width="20" height="180" as="geometry" />
         </mxCell>
         <mxCell id="tGw8cYsApNTdPxlF2TVG-9" value="个人信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="460" width="20" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="tGw8cYsApNTdPxlF2TVG-10" value="身份选择" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tGw8cYsApNTdPxlF2TVG-10" value="身份管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="460" width="20" height="180" as="geometry" />
         </mxCell>
         <mxCell id="tGw8cYsApNTdPxlF2TVG-11" value="视频求助" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
