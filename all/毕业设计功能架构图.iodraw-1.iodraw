@@ -11,10 +11,16 @@
           <mxGeometry x="250" y="680" width="560" height="210" as="geometry" />
         </mxCell>
         <mxCell id="tGw8cYsApNTdPxlF2TVG-3" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="400" width="110" height="20" as="geometry" />
+          <mxGeometry x="190" y="400" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tGw8cYsApNTdPxlF2TVG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tGw8cYsApNTdPxlF2TVG-3" target="tGw8cYsApNTdPxlF2TVG-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tGw8cYsApNTdPxlF2TVG-6" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="410" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tGw8cYsApNTdPxlF2TVG-7" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="410" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
