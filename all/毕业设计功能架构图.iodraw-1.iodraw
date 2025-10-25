@@ -47,16 +47,16 @@
           <mxGeometry x="360" y="460" width="20" height="180" as="geometry" />
         </mxCell>
         <mxCell id="tGw8cYsApNTdPxlF2TVG-16" value="登录注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="460" width="20" height="180" as="geometry" />
+          <mxGeometry x="390" y="460" width="20" height="180" as="geometry" />
         </mxCell>
         <mxCell id="tGw8cYsApNTdPxlF2TVG-17" value="个人信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="460" width="20" height="180" as="geometry" />
+          <mxGeometry x="420" y="460" width="20" height="180" as="geometry" />
         </mxCell>
         <mxCell id="tGw8cYsApNTdPxlF2TVG-18" value="身份管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="460" width="20" height="180" as="geometry" />
+          <mxGeometry x="450" y="460" width="20" height="180" as="geometry" />
         </mxCell>
         <mxCell id="tGw8cYsApNTdPxlF2TVG-19" value="视频接听" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="460" width="20" height="180" as="geometry" />
+          <mxGeometry x="480" y="460" width="20" height="180" as="geometry" />
         </mxCell>
         <mxCell id="tGw8cYsApNTdPxlF2TVG-20" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="460" width="20" height="180" as="geometry" />
@@ -64,8 +64,8 @@
         <mxCell id="tGw8cYsApNTdPxlF2TVG-21" value="个人信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="460" width="20" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="tGw8cYsApNTdPxlF2TVG-22" value="个人信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="460" width="20" height="180" as="geometry" />
+        <mxCell id="tGw8cYsApNTdPxlF2TVG-22" value="用户状态管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="460" width="20" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
