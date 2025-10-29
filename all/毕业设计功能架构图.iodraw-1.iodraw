@@ -103,7 +103,7 @@
         <mxCell id="tGw8cYsApNTdPxlF2TVG-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="tGw8cYsApNTdPxlF2TVG-20" target="tGw8cYsApNTdPxlF2TVG-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tGw8cYsApNTdPxlF2TVG-20" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tGw8cYsApNTdPxlF2TVG-20" value="登录管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="460" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="tGw8cYsApNTdPxlF2TVG-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="tGw8cYsApNTdPxlF2TVG-21" target="tGw8cYsApNTdPxlF2TVG-7" edge="1">
