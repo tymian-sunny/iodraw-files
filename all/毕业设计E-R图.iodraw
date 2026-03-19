@@ -356,8 +356,14 @@
         <mxCell id="zyPz85Wz-K_P-9-572Lf-18" value="志愿者管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="-20" width="110" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zyPz85Wz-K_P-9-572Lf-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zyPz85Wz-K_P-9-572Lf-19" target="zyPz85Wz-K_P-9-572Lf-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zyPz85Wz-K_P-9-572Lf-19" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zyPz85Wz-K_P-9-572Lf-20" value="志愿者管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="240" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
