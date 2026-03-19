@@ -160,7 +160,7 @@
           <mxGeometry x="110" y="500" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OdTuWfequmDiR83HEDII-11" value="修改个人信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="590" width="80" height="40" as="geometry" />
+          <mxGeometry x="310" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OdTuWfequmDiR83HEDII-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="OdTuWfequmDiR83HEDII-19" target="OdTuWfequmDiR83HEDII-21">
           <mxGeometry relative="1" as="geometry" />
@@ -172,7 +172,7 @@
           <mxGeometry x="110" y="800" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OdTuWfequmDiR83HEDII-21" value="修改信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="660" width="80" height="40" as="geometry" />
+          <mxGeometry x="310" y="730" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OdTuWfequmDiR83HEDII-22" value="删除用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="800" width="80" height="40" as="geometry" />
