@@ -162,7 +162,10 @@
         <mxCell id="OdTuWfequmDiR83HEDII-11" value="修改个人信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="590" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OdTuWfequmDiR83HEDII-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OdTuWfequmDiR83HEDII-19" target="OdTuWfequmDiR83HEDII-21">
+        <mxCell id="OdTuWfequmDiR83HEDII-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="OdTuWfequmDiR83HEDII-19" target="OdTuWfequmDiR83HEDII-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OdTuWfequmDiR83HEDII-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="OdTuWfequmDiR83HEDII-19" target="OdTuWfequmDiR83HEDII-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OdTuWfequmDiR83HEDII-19" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
