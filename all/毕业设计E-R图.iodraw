@@ -219,11 +219,10 @@
         <mxCell id="0sCmfOEABEX9aMi-qpb_-106" value="志愿者ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0sCmfOEABEX9aMi-qpb_-109" value="图像识别后端" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="395" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0sCmfOEABEX9aMi-qpb_-114" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="0sCmfOEABEX9aMi-qpb_-110" target="0sCmfOEABEX9aMi-qpb_-109" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0sCmfOEABEX9aMi-qpb_-114" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="0sCmfOEABEX9aMi-qpb_-110" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="160" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0sCmfOEABEX9aMi-qpb_-117" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0sCmfOEABEX9aMi-qpb_-114" vertex="1" connectable="0">
           <mxGeometry x="-0.3214" y="1" relative="1" as="geometry">
