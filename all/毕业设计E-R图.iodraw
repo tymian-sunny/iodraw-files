@@ -467,7 +467,7 @@
         <mxCell id="zyPz85Wz-K_P-9-572Lf-57" value="删除标志" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1720" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zyPz85Wz-K_P-9-572Lf-58" value="删除标志" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyPz85Wz-K_P-9-572Lf-58" value="最后登录IP" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1580" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
