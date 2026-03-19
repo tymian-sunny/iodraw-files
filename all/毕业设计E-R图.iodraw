@@ -392,22 +392,9 @@
         <mxCell id="zyPz85Wz-K_P-9-572Lf-32" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" source="zyPz85Wz-K_P-9-572Lf-40" target="zyPz85Wz-K_P-9-572Lf-45" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zyPz85Wz-K_P-9-572Lf-33" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" source="zyPz85Wz-K_P-9-572Lf-40" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1843.4915704019913" y="190.768264129018" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zyPz85Wz-K_P-9-572Lf-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" source="zyPz85Wz-K_P-9-572Lf-40" target="zyPz85Wz-K_P-9-572Lf-47" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="zyPz85Wz-K_P-9-572Lf-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" source="zyPz85Wz-K_P-9-572Lf-40" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1752.426406871209" y="158.78679656439567" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zyPz85Wz-K_P-9-572Lf-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" source="zyPz85Wz-K_P-9-572Lf-40" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1709.792745494704" y="82.49136439561266" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zyPz85Wz-K_P-9-572Lf-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" source="zyPz85Wz-K_P-9-572Lf-40" target="zyPz85Wz-K_P-9-572Lf-43" parent="1">
@@ -436,14 +423,6 @@
         </mxCell>
         <mxCell id="zyPz85Wz-K_P-9-572Lf-46" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1990" y="270" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zyPz85Wz-K_P-9-572Lf-47" value="身份信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1900" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zyPz85Wz-K_P-9-572Lf-50" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" target="zyPz85Wz-K_P-9-572Lf-40" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1758.7031245446392" y="12.924158384132852" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="zyPz85Wz-K_P-9-572Lf-52" value="用户账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1850" y="-180" width="120" height="60" as="geometry" />
