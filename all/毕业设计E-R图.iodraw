@@ -458,8 +458,8 @@
         <mxCell id="zyPz85Wz-K_P-9-572Lf-54" value="性别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2140" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zyPz85Wz-K_P-9-572Lf-55" value="性别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="zyPz85Wz-K_P-9-572Lf-55" value="头像地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2090" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
