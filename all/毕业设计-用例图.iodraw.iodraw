@@ -123,10 +123,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OdTuWfequmDiR83HEDII-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OdTuWfequmDiR83HEDII-4" target="OdTuWfequmDiR83HEDII-10">
+        <mxCell id="OdTuWfequmDiR83HEDII-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="OdTuWfequmDiR83HEDII-4" target="OdTuWfequmDiR83HEDII-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OdTuWfequmDiR83HEDII-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OdTuWfequmDiR83HEDII-4" target="OdTuWfequmDiR83HEDII-11">
+        <mxCell id="OdTuWfequmDiR83HEDII-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="OdTuWfequmDiR83HEDII-4" target="OdTuWfequmDiR83HEDII-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OdTuWfequmDiR83HEDII-4" value="账户管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
