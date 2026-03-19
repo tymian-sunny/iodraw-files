@@ -386,9 +386,6 @@
         <mxCell id="zyPz85Wz-K_P-9-572Lf-26" value="分配" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1490" y="500" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zyPz85Wz-K_P-9-572Lf-30" value="角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1930" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="zyPz85Wz-K_P-9-572Lf-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" source="zyPz85Wz-K_P-9-572Lf-40" target="zyPz85Wz-K_P-9-572Lf-41" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -419,7 +416,7 @@
         <mxCell id="zyPz85Wz-K_P-9-572Lf-40" value="志愿者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1830" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zyPz85Wz-K_P-9-572Lf-41" value="志愿者ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyPz85Wz-K_P-9-572Lf-41" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1780" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zyPz85Wz-K_P-9-572Lf-42" value="用户地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
