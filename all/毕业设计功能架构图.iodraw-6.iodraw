@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram id="i46XEUoI2MzPq2HorQOR" name="第 1 页">
-    <mxGraphModel dx="533" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="431" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -220,6 +220,10 @@
         <mxCell id="7ML7Ky1h9eTH4ZvJp10h-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="7ML7Ky1h9eTH4ZvJp10h-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="589.8571428571429" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="150" />
+              <mxPoint x="590" y="150" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7ML7Ky1h9eTH4ZvJp10h-22" value="文字转语音" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -228,6 +232,11 @@
         <mxCell id="7ML7Ky1h9eTH4ZvJp10h-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="7ML7Ky1h9eTH4ZvJp10h-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="590" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="150" />
+              <mxPoint x="591" y="150" />
+              <mxPoint x="591" y="130" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7ML7Ky1h9eTH4ZvJp10h-26" value="音色管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
