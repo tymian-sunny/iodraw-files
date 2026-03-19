@@ -148,7 +148,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OdTuWfequmDiR83HEDII-4" value="账户管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="700" width="80" height="40" as="geometry" />
+          <mxGeometry x="110" y="660" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OdTuWfequmDiR83HEDII-5" value="登录退出账户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="580" width="80" height="40" as="geometry" />
