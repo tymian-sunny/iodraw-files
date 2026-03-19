@@ -485,8 +485,11 @@
         <mxCell id="zyPz85Wz-K_P-9-572Lf-63" value="更新者" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1510" y="-100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zyPz85Wz-K_P-9-572Lf-65" value="更新者" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zyPz85Wz-K_P-9-572Lf-65" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1610" y="-140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zyPz85Wz-K_P-9-572Lf-66" value="备注" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="-200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
