@@ -372,7 +372,7 @@
           <mxGeometry x="1380" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zyPz85Wz-K_P-9-572Lf-24" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="1680" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zyPz85Wz-K_P-9-572Lf-25" value="角色ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1680" y="500" width="120" height="60" as="geometry" />
@@ -385,6 +385,9 @@
         </mxCell>
         <mxCell id="zyPz85Wz-K_P-9-572Lf-26" value="分配" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1490" y="500" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zyPz85Wz-K_P-9-572Lf-30" value="角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
