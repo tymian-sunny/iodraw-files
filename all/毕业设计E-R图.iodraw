@@ -417,40 +417,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zyPz85Wz-K_P-9-572Lf-40" value="志愿者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="1830" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zyPz85Wz-K_P-9-572Lf-41" value="志愿者ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="1780" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zyPz85Wz-K_P-9-572Lf-42" value="用户地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="1770" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zyPz85Wz-K_P-9-572Lf-43" value="昵称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="1940" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zyPz85Wz-K_P-9-572Lf-44" value="手机号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="2040" y="-10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zyPz85Wz-K_P-9-572Lf-45" value="邮箱" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="2080" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zyPz85Wz-K_P-9-572Lf-46" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="2010" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zyPz85Wz-K_P-9-572Lf-47" value="身份信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="1900" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zyPz85Wz-K_P-9-572Lf-48" value="创建日期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="1650" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zyPz85Wz-K_P-9-572Lf-49" value="最后一次登录日期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="1590" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zyPz85Wz-K_P-9-572Lf-50" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" source="zyPz85Wz-K_P-9-572Lf-51" target="zyPz85Wz-K_P-9-572Lf-40" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zyPz85Wz-K_P-9-572Lf-51" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="1660" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
