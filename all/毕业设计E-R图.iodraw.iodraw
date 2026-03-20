@@ -533,6 +533,9 @@
         <mxCell id="-aBUneKDUfp39F7RrkSM-10" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2430" y="130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-aBUneKDUfp39F7RrkSM-11" value="更新者" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2520" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
