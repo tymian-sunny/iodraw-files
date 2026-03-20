@@ -527,8 +527,11 @@
         <mxCell id="-aBUneKDUfp39F7RrkSM-8" value="删除标志" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2410" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-aBUneKDUfp39F7RrkSM-9" value="删除标志" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2420" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="-aBUneKDUfp39F7RrkSM-9" value="创建者" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2420" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-aBUneKDUfp39F7RrkSM-10" value="创建者" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2430" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
