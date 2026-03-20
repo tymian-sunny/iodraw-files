@@ -522,10 +522,10 @@
           <mxGeometry x="2680" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-aBUneKDUfp39F7RrkSM-7" value="角色状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2550" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="2540" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-aBUneKDUfp39F7RrkSM-8" value="删除标志" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2410" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="2440" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-aBUneKDUfp39F7RrkSM-9" value="创建者" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2380" y="230" width="120" height="60" as="geometry" />
