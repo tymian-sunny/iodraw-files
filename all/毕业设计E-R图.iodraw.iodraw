@@ -515,6 +515,9 @@
         <mxCell id="-aBUneKDUfp39F7RrkSM-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-aBUneKDUfp39F7RrkSM-1" target="-aBUneKDUfp39F7RrkSM-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-aBUneKDUfp39F7RrkSM-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-aBUneKDUfp39F7RrkSM-1" target="-aBUneKDUfp39F7RrkSM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-aBUneKDUfp39F7RrkSM-1" value="角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2630" y="220" width="120" height="60" as="geometry" />
         </mxCell>
