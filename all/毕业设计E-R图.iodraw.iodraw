@@ -503,6 +503,9 @@
         <mxCell id="zyPz85Wz-K_P-9-572Lf-76" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zyPz85Wz-K_P-9-572Lf-40" target="zyPz85Wz-K_P-9-572Lf-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-aBUneKDUfp39F7RrkSM-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-aBUneKDUfp39F7RrkSM-1" target="-aBUneKDUfp39F7RrkSM-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-aBUneKDUfp39F7RrkSM-1" value="角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2630" y="220" width="120" height="60" as="geometry" />
         </mxCell>
