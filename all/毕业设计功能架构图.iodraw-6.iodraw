@@ -256,7 +256,10 @@
         <mxCell id="7ML7Ky1h9eTH4ZvJp10h-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="7ML7Ky1h9eTH4ZvJp10h-48" target="7ML7Ky1h9eTH4ZvJp10h-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xUsWpdqI5HPiNbxc8fqx-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7ML7Ky1h9eTH4ZvJp10h-48" target="xUsWpdqI5HPiNbxc8fqx-22">
+        <mxCell id="xUsWpdqI5HPiNbxc8fqx-25" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;endArrow=none;endFill=0;" edge="1" parent="1" source="7ML7Ky1h9eTH4ZvJp10h-48" target="xUsWpdqI5HPiNbxc8fqx-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xUsWpdqI5HPiNbxc8fqx-26" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;endArrow=none;endFill=0;" edge="1" parent="1" source="7ML7Ky1h9eTH4ZvJp10h-48" target="xUsWpdqI5HPiNbxc8fqx-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7ML7Ky1h9eTH4ZvJp10h-48" value="Yolo&lt;br&gt;图像识别" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
