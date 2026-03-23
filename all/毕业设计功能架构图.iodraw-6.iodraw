@@ -188,8 +188,13 @@
             <mxPoint x="453.8571428571429" y="-120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xUsWpdqI5HPiNbxc8fqx-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7ML7Ky1h9eTH4ZvJp10h-10" target="xUsWpdqI5HPiNbxc8fqx-20">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="xUsWpdqI5HPiNbxc8fqx-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="7ML7Ky1h9eTH4ZvJp10h-10" target="xUsWpdqI5HPiNbxc8fqx-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="454" y="80" />
+              <mxPoint x="454" y="80" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="7ML7Ky1h9eTH4ZvJp10h-10" value="多模态图像识别" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="444" y="-80" width="20" height="150" as="geometry" />
