@@ -328,6 +328,9 @@
         <mxCell id="xUsWpdqI5HPiNbxc8fqx-22" value="障碍物识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="100" width="20" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="xUsWpdqI5HPiNbxc8fqx-23" value="场景识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="100" width="20" height="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
