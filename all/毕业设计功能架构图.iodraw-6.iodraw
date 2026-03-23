@@ -188,13 +188,16 @@
             <mxPoint x="453.8571428571429" y="-120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xUsWpdqI5HPiNbxc8fqx-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7ML7Ky1h9eTH4ZvJp10h-10" target="xUsWpdqI5HPiNbxc8fqx-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7ML7Ky1h9eTH4ZvJp10h-10" value="多模态图像识别" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="444" y="-80" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="7ML7Ky1h9eTH4ZvJp10h-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="7ML7Ky1h9eTH4ZvJp10h-14" target="7ML7Ky1h9eTH4ZvJp10h-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xUsWpdqI5HPiNbxc8fqx-19" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;elbow=vertical;" edge="1" parent="1" source="7ML7Ky1h9eTH4ZvJp10h-14" target="xUsWpdqI5HPiNbxc8fqx-18">
+        <mxCell id="xUsWpdqI5HPiNbxc8fqx-19" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;elbow=vertical;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7ML7Ky1h9eTH4ZvJp10h-48" target="xUsWpdqI5HPiNbxc8fqx-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7ML7Ky1h9eTH4ZvJp10h-14" value="图像传输" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -317,7 +320,7 @@
           <mxGeometry x="820" y="320" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="xUsWpdqI5HPiNbxc8fqx-18" value="语言播报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="374" y="100" width="20" height="150" as="geometry" />
+          <mxGeometry x="484" y="100" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="xUsWpdqI5HPiNbxc8fqx-20" value="语言播报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="444" y="100" width="20" height="150" as="geometry" />
