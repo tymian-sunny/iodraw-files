@@ -326,16 +326,16 @@
           <mxGeometry x="820" y="320" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="xUsWpdqI5HPiNbxc8fqx-18" value="语言播报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="449" y="100" width="20" height="150" as="geometry" />
+          <mxGeometry x="444" y="100" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="xUsWpdqI5HPiNbxc8fqx-20" value="语言播报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="100" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="xUsWpdqI5HPiNbxc8fqx-22" value="障碍物识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="100" width="20" height="150" as="geometry" />
+          <mxGeometry x="484" y="100" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="xUsWpdqI5HPiNbxc8fqx-23" value="场景识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="100" width="20" height="150" as="geometry" />
+          <mxGeometry x="524" y="100" width="20" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
