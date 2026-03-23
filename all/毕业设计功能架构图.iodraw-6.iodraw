@@ -295,8 +295,14 @@
         <mxCell id="xUsWpdqI5HPiNbxc8fqx-3" value="AI问答模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="260" width="90" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="xUsWpdqI5HPiNbxc8fqx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xUsWpdqI5HPiNbxc8fqx-5" target="xUsWpdqI5HPiNbxc8fqx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xUsWpdqI5HPiNbxc8fqx-5" value="文字转语音" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="320" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xUsWpdqI5HPiNbxc8fqx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xUsWpdqI5HPiNbxc8fqx-7" target="xUsWpdqI5HPiNbxc8fqx-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xUsWpdqI5HPiNbxc8fqx-7" value="音色管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="320" width="20" height="150" as="geometry" />
