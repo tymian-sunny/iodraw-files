@@ -286,7 +286,7 @@
         <mxCell id="mOAw-wKz9MOl-O9gbl_V-6" value="文字转语音" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1030" y="10" width="20" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="xUsWpdqI5HPiNbxc8fqx-10" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xUsWpdqI5HPiNbxc8fqx-2" target="xUsWpdqI5HPiNbxc8fqx-3">
+        <mxCell id="xUsWpdqI5HPiNbxc8fqx-10" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="1" source="xUsWpdqI5HPiNbxc8fqx-2" target="xUsWpdqI5HPiNbxc8fqx-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xUsWpdqI5HPiNbxc8fqx-2" value="语音转文字" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -300,6 +300,9 @@
         </mxCell>
         <mxCell id="xUsWpdqI5HPiNbxc8fqx-7" value="音色管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="320" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xUsWpdqI5HPiNbxc8fqx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xUsWpdqI5HPiNbxc8fqx-9" target="xUsWpdqI5HPiNbxc8fqx-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xUsWpdqI5HPiNbxc8fqx-9" value="文字生文字" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="320" width="20" height="150" as="geometry" />
