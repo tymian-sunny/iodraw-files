@@ -319,6 +319,9 @@
         <mxCell id="xUsWpdqI5HPiNbxc8fqx-18" value="语言播报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="100" width="20" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="xUsWpdqI5HPiNbxc8fqx-20" value="语言播报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="444" y="100" width="20" height="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
