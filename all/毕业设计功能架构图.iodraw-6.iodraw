@@ -151,6 +151,9 @@
         <mxCell id="7ML7Ky1h9eTH4ZvJp10h-4" value="个人信息管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="204" y="-80" width="20" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="xUsWpdqI5HPiNbxc8fqx-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7ML7Ky1h9eTH4ZvJp10h-5" target="7ML7Ky1h9eTH4ZvJp10h-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7ML7Ky1h9eTH4ZvJp10h-5" value="身份管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="244" y="-80" width="20" height="150" as="geometry" />
         </mxCell>
@@ -208,11 +211,6 @@
         </mxCell>
         <mxCell id="7ML7Ky1h9eTH4ZvJp10h-17" value="语音转文字" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="524" y="-80" width="20" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="7ML7Ky1h9eTH4ZvJp10h-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="7ML7Ky1h9eTH4ZvJp10h-19" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="234" y="-120" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="7ML7Ky1h9eTH4ZvJp10h-19" value="问题反馈" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="284" y="-80" width="20" height="150" as="geometry" />
