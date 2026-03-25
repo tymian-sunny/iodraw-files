@@ -590,8 +590,8 @@
         <mxCell id="2I0y1E_y9WHlT5bFuBBY-6" value="m" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="350" y="-445" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2I0y1E_y9WHlT5bFuBBY-7" value="志愿者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="-800" width="120" height="60" as="geometry" />
+        <mxCell id="2I0y1E_y9WHlT5bFuBBY-7" value="家人/朋友" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="-710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
