@@ -396,6 +396,9 @@
         <mxCell id="5rzs1Vp8l2Y4SItBSVOq-43" value="生成QR码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="-240" width="20" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="5rzs1Vp8l2Y4SItBSVOq-44" value="扫码绑定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="-240" width="20" height="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
