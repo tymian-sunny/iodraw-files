@@ -399,11 +399,11 @@
         <mxCell id="5rzs1Vp8l2Y4SItBSVOq-44" value="扫码绑定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="-240" width="20" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="5rzs1Vp8l2Y4SItBSVOq-45" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;共享登录地址&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5rzs1Vp8l2Y4SItBSVOq-45" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;获取登录地址&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="-240" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="5rzs1Vp8l2Y4SItBSVOq-46" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;分享登录状态&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-50" width="20" height="150" as="geometry" />
+          <mxGeometry x="670" y="-240" width="20" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
