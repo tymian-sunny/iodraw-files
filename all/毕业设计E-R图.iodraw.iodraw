@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram id="2DjZL54lv7WErnkGeclx" name="第 1 页">
-    <mxGraphModel dx="2330" dy="2441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2597" dy="2587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -166,34 +166,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0sCmfOEABEX9aMi-qpb_-85" value="志愿者" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="-870" width="120" height="60" as="geometry" />
+          <mxGeometry x="455" y="-1070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0sCmfOEABEX9aMi-qpb_-86" value="志愿者ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="-1010" width="120" height="60" as="geometry" />
+          <mxGeometry x="405" y="-1210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0sCmfOEABEX9aMi-qpb_-87" value="用户地址" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="-740" width="120" height="60" as="geometry" />
+          <mxGeometry x="395" y="-940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0sCmfOEABEX9aMi-qpb_-88" value="昵称" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="690" y="-1010" width="120" height="60" as="geometry" />
+          <mxGeometry x="565" y="-1210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0sCmfOEABEX9aMi-qpb_-89" value="手机号" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="790" y="-940" width="120" height="60" as="geometry" />
+          <mxGeometry x="665" y="-1140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0sCmfOEABEX9aMi-qpb_-90" value="邮箱" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="830" y="-850" width="120" height="60" as="geometry" />
+          <mxGeometry x="705" y="-1050" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0sCmfOEABEX9aMi-qpb_-91" value="密码" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="760" y="-780" width="120" height="60" as="geometry" />
+          <mxGeometry x="635" y="-980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0sCmfOEABEX9aMi-qpb_-92" value="身份信息" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="-740" width="120" height="60" as="geometry" />
+          <mxGeometry x="525" y="-940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0sCmfOEABEX9aMi-qpb_-93" value="创建日期" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="-780" width="120" height="60" as="geometry" />
+          <mxGeometry x="275" y="-980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0sCmfOEABEX9aMi-qpb_-94" value="最后一次登录日期" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="-880" width="120" height="60" as="geometry" />
+          <mxGeometry x="215" y="-1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0sCmfOEABEX9aMi-qpb_-104" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="0sCmfOEABEX9aMi-qpb_-102" target="0sCmfOEABEX9aMi-qpb_-103" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -282,7 +282,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0sCmfOEABEX9aMi-qpb_-142" value="状态" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="410" y="-970" width="120" height="60" as="geometry" />
+          <mxGeometry x="285" y="-1170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="irIFu8XNnmjtnn81SyKa-1" value="登录地址" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-370" y="590" width="120" height="60" as="geometry" />
@@ -589,6 +589,9 @@
         </mxCell>
         <mxCell id="2I0y1E_y9WHlT5bFuBBY-6" value="m" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="350" y="-445" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2I0y1E_y9WHlT5bFuBBY-7" value="志愿者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="-800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
