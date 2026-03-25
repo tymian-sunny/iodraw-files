@@ -114,7 +114,7 @@
         <mxCell id="0sCmfOEABEX9aMi-qpb_-34" value="盲人用户ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-190" y="-990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0sCmfOEABEX9aMi-qpb_-37" value="用户地址" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0sCmfOEABEX9aMi-qpb_-37" value="用户IP地址" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-290" y="-730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0sCmfOEABEX9aMi-qpb_-38" value="昵称" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -171,7 +171,7 @@
         <mxCell id="0sCmfOEABEX9aMi-qpb_-86" value="志愿者ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="405" y="-1210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0sCmfOEABEX9aMi-qpb_-87" value="用户地址" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0sCmfOEABEX9aMi-qpb_-87" value="用户IP地址" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="395" y="-940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0sCmfOEABEX9aMi-qpb_-88" value="昵称" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -617,7 +617,7 @@
         <mxCell id="2I0y1E_y9WHlT5bFuBBY-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" source="2I0y1E_y9WHlT5bFuBBY-40" target="2I0y1E_y9WHlT5bFuBBY-46" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2I0y1E_y9WHlT5bFuBBY-40" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2I0y1E_y9WHlT5bFuBBY-40" value="家人/朋友" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="929" y="-795" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2I0y1E_y9WHlT5bFuBBY-41" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
