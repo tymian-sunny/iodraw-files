@@ -376,7 +376,7 @@
         <mxCell id="5rzs1Vp8l2Y4SItBSVOq-37" value="亲人朋友管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="-680" width="20" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="5rzs1Vp8l2Y4SItBSVOq-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5rzs1Vp8l2Y4SItBSVOq-42" target="7ML7Ky1h9eTH4ZvJp10h-1">
+        <mxCell id="5rzs1Vp8l2Y4SItBSVOq-51" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;elbow=vertical;" edge="1" parent="1" source="5rzs1Vp8l2Y4SItBSVOq-42" target="7ML7Ky1h9eTH4ZvJp10h-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5rzs1Vp8l2Y4SItBSVOq-42" value="亲人朋友模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
