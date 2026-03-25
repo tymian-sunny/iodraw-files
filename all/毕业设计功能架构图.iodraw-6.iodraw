@@ -370,7 +370,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5rzs1Vp8l2Y4SItBSVOq-30" value="个人信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="-680" width="20" height="150" as="geometry" />
+          <mxGeometry x="720" y="-680" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="5rzs1Vp8l2Y4SItBSVOq-31" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;elbow=vertical;endArrow=none;endFill=0;" edge="1" source="5rzs1Vp8l2Y4SItBSVOq-32" target="5rzs1Vp8l2Y4SItBSVOq-26" parent="1">
           <mxGeometry relative="1" as="geometry" />
@@ -391,13 +391,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5rzs1Vp8l2Y4SItBSVOq-37" value="亲人朋友管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="-670" width="20" height="150" as="geometry" />
+          <mxGeometry x="680" y="-680" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="5rzs1Vp8l2Y4SItBSVOq-38" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;分享登录状态&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="-500" width="20" height="150" as="geometry" />
+          <mxGeometry x="660" y="-500" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="5rzs1Vp8l2Y4SItBSVOq-39" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;分享登录地址&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="-500" width="20" height="150" as="geometry" />
+          <mxGeometry x="700" y="-510" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="5rzs1Vp8l2Y4SItBSVOq-40" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" edge="1" source="5rzs1Vp8l2Y4SItBSVOq-37" target="5rzs1Vp8l2Y4SItBSVOq-39" parent="1">
           <mxGeometry relative="1" as="geometry">
