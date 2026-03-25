@@ -576,7 +576,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2I0y1E_y9WHlT5bFuBBY-1" value="家人/朋友" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="-470" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="-460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2I0y1E_y9WHlT5bFuBBY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="2I0y1E_y9WHlT5bFuBBY-2" target="zyPz85Wz-K_P-9-572Lf-1">
           <mxGeometry relative="1" as="geometry" />
