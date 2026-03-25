@@ -155,7 +155,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7ML7Ky1h9eTH4ZvJp10h-5" value="身份管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="-240" width="20" height="150" as="geometry" />
+          <mxGeometry x="210" y="-230" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="7ML7Ky1h9eTH4ZvJp10h-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="7ML7Ky1h9eTH4ZvJp10h-6" target="7ML7Ky1h9eTH4ZvJp10h-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
