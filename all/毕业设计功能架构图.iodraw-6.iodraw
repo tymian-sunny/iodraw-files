@@ -341,6 +341,9 @@
         <mxCell id="xUsWpdqI5HPiNbxc8fqx-27" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;级联求助&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="-60" width="20" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="5rzs1Vp8l2Y4SItBSVOq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5rzs1Vp8l2Y4SItBSVOq-3" target="5rzs1Vp8l2Y4SItBSVOq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5rzs1Vp8l2Y4SItBSVOq-3" value="亲人朋友管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="-240" width="20" height="150" as="geometry" />
         </mxCell>
@@ -349,6 +352,9 @@
         </mxCell>
         <mxCell id="5rzs1Vp8l2Y4SItBSVOq-5" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;分析登录地址&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="-60" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="5rzs1Vp8l2Y4SItBSVOq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5rzs1Vp8l2Y4SItBSVOq-3" target="5rzs1Vp8l2Y4SItBSVOq-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
