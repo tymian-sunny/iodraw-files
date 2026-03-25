@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram id="i46XEUoI2MzPq2HorQOR" name="第 1 页">
-    <mxGraphModel dx="1548" dy="1431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1777" dy="1557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,7 +131,7 @@
           <mxGeometry x="540" y="500" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="7ML7Ky1h9eTH4ZvJp10h-1" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;&amp;lt;br/&amp;gt;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;&quot;&gt;基于&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;SpringBoot&lt;/span&gt;&lt;span style=&quot;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;lt;br/&amp;gt;&amp;quot;Times New Roman&amp;quot;&quot;&gt;与&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;yolo&lt;/span&gt;&lt;span style=&quot;font-family:&amp;lt;br/&amp;gt;宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;&quot;&gt;的智能盲人辅助与互助系统&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="145" y="-370" width="270" height="20" as="geometry" />
+          <mxGeometry x="215" y="-370" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7ML7Ky1h9eTH4ZvJp10h-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="7ML7Ky1h9eTH4ZvJp10h-2" target="7ML7Ky1h9eTH4ZvJp10h-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -380,7 +380,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5rzs1Vp8l2Y4SItBSVOq-42" value="亲人朋友模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="545" y="-300" width="90" height="20" as="geometry" />
+          <mxGeometry x="590" y="-300" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5rzs1Vp8l2Y4SItBSVOq-47" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;endArrow=none;endFill=0;" edge="1" parent="1" source="5rzs1Vp8l2Y4SItBSVOq-43" target="5rzs1Vp8l2Y4SItBSVOq-42">
           <mxGeometry relative="1" as="geometry" />
