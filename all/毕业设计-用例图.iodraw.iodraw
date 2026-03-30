@@ -212,7 +212,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kzj2pcgRTrYYse42tw3u-42" value="账户管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="-110" width="80" height="40" as="geometry" />
+          <mxGeometry x="810" y="-110" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kzj2pcgRTrYYse42tw3u-43" value="注册账户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="-200" width="80" height="40" as="geometry" />
@@ -233,7 +233,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kzj2pcgRTrYYse42tw3u-52" value="志愿者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="-60" width="30" height="60" as="geometry" />
+          <mxGeometry x="720" y="-50" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kzj2pcgRTrYYse42tw3u-53" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" source="kzj2pcgRTrYYse42tw3u-55" target="kzj2pcgRTrYYse42tw3u-56" parent="1">
           <mxGeometry relative="1" as="geometry" />
@@ -244,10 +244,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kzj2pcgRTrYYse42tw3u-55" value="接听求助电话" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="20" width="80" height="40" as="geometry" />
+          <mxGeometry x="810" y="50" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kzj2pcgRTrYYse42tw3u-56" value="视频通话" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="60" width="80" height="40" as="geometry" />
+          <mxGeometry x="1010" y="70" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kzj2pcgRTrYYse42tw3u-59" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="kzj2pcgRTrYYse42tw3u-42" target="kzj2pcgRTrYYse42tw3u-44">
           <mxGeometry relative="1" as="geometry">
