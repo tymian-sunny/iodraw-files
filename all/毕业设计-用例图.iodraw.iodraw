@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram id="iaMY2_FB9jo_xuQj8t8d" name="第 1 页">
-    <mxGraphModel dx="1203" dy="1024" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="721" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -474,10 +474,8 @@
         <mxCell id="kzj2pcgRTrYYse42tw3u-134" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="kzj2pcgRTrYYse42tw3u-136" target="kzj2pcgRTrYYse42tw3u-137" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kzj2pcgRTrYYse42tw3u-135" value="&amp;lt;include&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kzj2pcgRTrYYse42tw3u-134" vertex="1" connectable="0">
-          <mxGeometry x="0.4343" y="-1" relative="1" as="geometry">
-            <mxPoint x="-30" y="-13" as="offset" />
-          </mxGeometry>
+        <mxCell id="F4I1KGEuXb-c1Ew9xARg-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="kzj2pcgRTrYYse42tw3u-136" target="F4I1KGEuXb-c1Ew9xARg-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kzj2pcgRTrYYse42tw3u-136" value="接听求助电话" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1390" y="40" width="80" height="40" as="geometry" />
@@ -508,10 +506,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kzj2pcgRTrYYse42tw3u-141" value="绑定视障用户" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1370" y="230" width="80" height="40" as="geometry" />
+          <mxGeometry x="1390" y="120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kzj2pcgRTrYYse42tw3u-143" value="二维码扫描" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1540" y="200" width="80" height="40" as="geometry" />
+          <mxGeometry x="1580" y="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kzj2pcgRTrYYse42tw3u-146" value="绑定用户信息显示" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1390" y="-50" width="80" height="40" as="geometry" />
