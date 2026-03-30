@@ -187,11 +187,6 @@
         <mxCell id="OdTuWfequmDiR83HEDII-22" value="新增/删除用户" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="800" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kzj2pcgRTrYYse42tw3u-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" target="kzj2pcgRTrYYse42tw3u-42" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="211.89189189189187" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kzj2pcgRTrYYse42tw3u-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" source="kzj2pcgRTrYYse42tw3u-42" target="kzj2pcgRTrYYse42tw3u-43" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -231,16 +226,6 @@
         <mxCell id="kzj2pcgRTrYYse42tw3u-46" value="修改个人信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1110" y="40" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kzj2pcgRTrYYse42tw3u-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" target="kzj2pcgRTrYYse42tw3u-56" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="879.112096563093" y="185.80941822538307" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kzj2pcgRTrYYse42tw3u-48" value="&lt;span style=&quot;font-size: 12px&quot;&gt;&amp;lt;include&amp;gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kzj2pcgRTrYYse42tw3u-47">
-          <mxGeometry x="-0.3748" y="-1" relative="1" as="geometry">
-            <mxPoint x="11.99" y="-3.08" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kzj2pcgRTrYYse42tw3u-50" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="kzj2pcgRTrYYse42tw3u-52" target="kzj2pcgRTrYYse42tw3u-42" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -262,7 +247,7 @@
           <mxGeometry x="980" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kzj2pcgRTrYYse42tw3u-56" value="视频通话" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="150" width="80" height="40" as="geometry" />
+          <mxGeometry x="780" y="260" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kzj2pcgRTrYYse42tw3u-59" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
