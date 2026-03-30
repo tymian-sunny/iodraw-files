@@ -364,7 +364,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kzj2pcgRTrYYse42tw3u-90" value="AI伴行" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="750" y="650" width="80" height="40" as="geometry" />
+          <mxGeometry x="740" y="710" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kzj2pcgRTrYYse42tw3u-104" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="kzj2pcgRTrYYse42tw3u-91" target="kzj2pcgRTrYYse42tw3u-103" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -389,16 +389,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kzj2pcgRTrYYse42tw3u-94" value="语音播报" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="650" width="80" height="40" as="geometry" />
+          <mxGeometry x="1020" y="710" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kzj2pcgRTrYYse42tw3u-97" value="障碍物识别" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="710" width="80" height="40" as="geometry" />
+          <mxGeometry x="1000" y="770" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kzj2pcgRTrYYse42tw3u-98" value="场景识别" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="900" y="740" width="80" height="40" as="geometry" />
+          <mxGeometry x="890" y="800" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kzj2pcgRTrYYse42tw3u-101" value="级联求助" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="580" width="80" height="40" as="geometry" />
+          <mxGeometry x="1020" y="640" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kzj2pcgRTrYYse42tw3u-103" value="语音对话" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="940" y="540" width="80" height="40" as="geometry" />
@@ -415,10 +415,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kzj2pcgRTrYYse42tw3u-114" value="绑定家人朋友" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="740" width="80" height="40" as="geometry" />
+          <mxGeometry x="690" y="800" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kzj2pcgRTrYYse42tw3u-116" value="二维码生成" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="850" y="810" width="80" height="40" as="geometry" />
+          <mxGeometry x="840" y="870" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kzj2pcgRTrYYse42tw3u-120" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="kzj2pcgRTrYYse42tw3u-126" target="kzj2pcgRTrYYse42tw3u-127" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -518,6 +518,9 @@
         </mxCell>
         <mxCell id="kzj2pcgRTrYYse42tw3u-146" value="绑定用户信息显示" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1390" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F4I1KGEuXb-c1Ew9xARg-3" value="语音对话" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="630" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
