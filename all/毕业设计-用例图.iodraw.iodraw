@@ -279,7 +279,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kzj2pcgRTrYYse42tw3u-68" value="视障用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="520" width="30" height="60" as="geometry" />
+          <mxGeometry x="610" y="600" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kzj2pcgRTrYYse42tw3u-69" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" source="kzj2pcgRTrYYse42tw3u-75" target="kzj2pcgRTrYYse42tw3u-76" parent="1">
           <mxGeometry relative="1" as="geometry" />
