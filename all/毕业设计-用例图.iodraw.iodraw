@@ -306,13 +306,13 @@
           <mxGeometry x="730" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kzj2pcgRTrYYse42tw3u-77" value="登录退出账户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="320" width="80" height="40" as="geometry" />
+          <mxGeometry x="1000" y="300" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kzj2pcgRTrYYse42tw3u-78" value="修改密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="320" width="80" height="40" as="geometry" />
+          <mxGeometry x="1040" y="370" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kzj2pcgRTrYYse42tw3u-79" value="修改个人信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="370" width="80" height="40" as="geometry" />
+          <mxGeometry x="1060" y="460" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kzj2pcgRTrYYse42tw3u-80" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" source="kzj2pcgRTrYYse42tw3u-82" target="kzj2pcgRTrYYse42tw3u-89" parent="1">
           <mxGeometry relative="1" as="geometry" />
@@ -325,13 +325,8 @@
         <mxCell id="kzj2pcgRTrYYse42tw3u-82" value="拨打求助电话" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="500" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kzj2pcgRTrYYse42tw3u-86" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" target="kzj2pcgRTrYYse42tw3u-89" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1000" y="570" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kzj2pcgRTrYYse42tw3u-89" value="视频通话" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="480" width="80" height="40" as="geometry" />
+          <mxGeometry x="960" y="530" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kzj2pcgRTrYYse42tw3u-90" value="AI伴行" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="570" width="80" height="40" as="geometry" />
