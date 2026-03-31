@@ -662,7 +662,7 @@
         <mxCell id="b2R52SarUrHOnTxNNJjl-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" source="b2R52SarUrHOnTxNNJjl-12" target="b2R52SarUrHOnTxNNJjl-14" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b2R52SarUrHOnTxNNJjl-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" source="b2R52SarUrHOnTxNNJjl-12" parent="1">
+        <mxCell id="b2R52SarUrHOnTxNNJjl-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" source="b2R52SarUrHOnTxNNJjl-12" target="b2R52SarUrHOnTxNNJjl-15" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="948.6500951999942" y="-1889.696017407999" as="targetPoint" />
           </mxGeometry>
@@ -686,7 +686,7 @@
           <mxGeometry x="840" y="-1990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b2R52SarUrHOnTxNNJjl-15" value="手机号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="-1410" width="120" height="60" as="geometry" />
+          <mxGeometry x="960" y="-1930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b2R52SarUrHOnTxNNJjl-16" value="邮箱" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="925" y="-1840" width="120" height="60" as="geometry" />
