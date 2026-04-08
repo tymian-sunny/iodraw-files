@@ -675,7 +675,7 @@
             <mxPoint x="-12" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8hTN-vF5OHt708iuUxcz-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BwL2534HpO6Uo3g-z0oh-1" target="8hTN-vF5OHt708iuUxcz-17">
+        <mxCell id="8hTN-vF5OHt708iuUxcz-21" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BwL2534HpO6Uo3g-z0oh-1" target="8hTN-vF5OHt708iuUxcz-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-1" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
