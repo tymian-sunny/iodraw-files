@@ -794,8 +794,8 @@
         <mxCell id="BwL2534HpO6Uo3g-z0oh-64" value="部门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1140" y="-1045" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BwL2534HpO6Uo3g-z0oh-65" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1010" y="-1200" width="120" height="60" as="geometry" />
+        <mxCell id="BwL2534HpO6Uo3g-z0oh-65" value="部门id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1140" y="-1200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
