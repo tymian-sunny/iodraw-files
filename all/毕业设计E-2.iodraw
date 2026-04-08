@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram id="2DjZL54lv7WErnkGeclx" name="第 1 页">
-    <mxGraphModel dx="4596" dy="2718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5992" dy="3436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1231,11 +1231,17 @@
         <mxCell id="8hTN-vF5OHt708iuUxcz-17" value="维护" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-760" y="-440" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="8hTN-vF5OHt708iuUxcz-51" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8hTN-vF5OHt708iuUxcz-32" target="8hTN-vF5OHt708iuUxcz-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8hTN-vF5OHt708iuUxcz-32" value="盲人管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-730" y="-520" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8hTN-vF5OHt708iuUxcz-34" value="盲人管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1295" y="-900" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8hTN-vF5OHt708iuUxcz-52" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8hTN-vF5OHt708iuUxcz-35" target="8hTN-vF5OHt708iuUxcz-39">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8hTN-vF5OHt708iuUxcz-35" value="志愿者管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-410" y="-490" width="110" height="60" as="geometry" />
