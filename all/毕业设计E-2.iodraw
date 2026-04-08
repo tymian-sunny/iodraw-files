@@ -1032,13 +1032,13 @@
           <mxGeometry x="-320" y="-1620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-154" value="操作人员" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="-1690" width="120" height="60" as="geometry" />
+          <mxGeometry x="-370" y="-1690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-156" value="部门名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="-1770" width="120" height="60" as="geometry" />
+          <mxGeometry x="-390" y="-1770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-157" value="请求URL" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="-1850" width="120" height="60" as="geometry" />
+          <mxGeometry x="-350" y="-1850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-158" value="主机地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-300" y="-1920" width="120" height="60" as="geometry" />
@@ -1059,10 +1059,10 @@
           <mxGeometry x="-55" y="-1970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-163" value="操作状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="139" y="-1850" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="-1830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-164" value="操作时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="185" y="-1780" width="120" height="60" as="geometry" />
+          <mxGeometry x="149" y="-1750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
