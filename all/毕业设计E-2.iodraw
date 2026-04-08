@@ -753,7 +753,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-10" value="包含" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-640" y="160" width="80" height="80" as="geometry" />
+          <mxGeometry x="-640" y="160" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-17" value="包含" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-910" y="200" width="110" height="50" as="geometry" />
