@@ -1238,7 +1238,7 @@
           <mxGeometry x="-1295" y="-900" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8hTN-vF5OHt708iuUxcz-35" value="志愿者管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-760" y="-577.5" width="110" height="60" as="geometry" />
+          <mxGeometry x="-775" y="-550" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8hTN-vF5OHt708iuUxcz-36" value="盲人用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-745" y="-640" width="120" height="60" as="geometry" />
