@@ -672,7 +672,7 @@
           <mxGeometry x="-950" y="-460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-2" value="菜单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="-415" width="120" height="60" as="geometry" />
+          <mxGeometry x="-610" y="-495" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-3" value="登录日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1000" y="-270" width="120" height="60" as="geometry" />
@@ -690,7 +690,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-7" value="角色信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-680" y="-415" width="120" height="60" as="geometry" />
+          <mxGeometry x="-620" y="-380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-20" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BwL2534HpO6Uo3g-z0oh-8" target="BwL2534HpO6Uo3g-z0oh-17">
           <mxGeometry relative="1" as="geometry" />
