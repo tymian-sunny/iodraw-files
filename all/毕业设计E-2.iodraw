@@ -675,6 +675,9 @@
             <mxPoint x="-12" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="8hTN-vF5OHt708iuUxcz-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BwL2534HpO6Uo3g-z0oh-1" target="8hTN-vF5OHt708iuUxcz-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-1" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-950" y="-460" width="120" height="60" as="geometry" />
         </mxCell>
@@ -688,7 +691,7 @@
           <mxGeometry x="-1040" y="-150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-6" value="岗位信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-720" y="-440" width="120" height="60" as="geometry" />
+          <mxGeometry x="-670" y="-410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-19" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BwL2534HpO6Uo3g-z0oh-7" target="BwL2534HpO6Uo3g-z0oh-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1172,6 +1175,9 @@
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-206" value="字典状态" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2520" y="-665" width="120" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8hTN-vF5OHt708iuUxcz-17" value="维护" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="-440" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
