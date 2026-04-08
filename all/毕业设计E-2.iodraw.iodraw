@@ -1038,7 +1038,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-131" value="登录日志" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-880" y="-1195" width="120" height="60" as="geometry" />
+          <mxGeometry x="-865" y="-1205" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-132" value="访问Id" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-880" y="-1320" width="120" height="60" as="geometry" />
