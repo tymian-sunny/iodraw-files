@@ -778,7 +778,7 @@
         </mxCell>
         <mxCell id="8hTN-vF5OHt708iuUxcz-31" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=18;" vertex="1" connectable="0" parent="BwL2534HpO6Uo3g-z0oh-28">
           <mxGeometry x="0.031" y="-1" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
+            <mxPoint y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-24" value="字典数据" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;" parent="1" vertex="1">
@@ -789,7 +789,7 @@
         </mxCell>
         <mxCell id="8hTN-vF5OHt708iuUxcz-30" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=18;" vertex="1" connectable="0" parent="BwL2534HpO6Uo3g-z0oh-27">
           <mxGeometry x="-0.0121" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-25" value="字典类型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;" parent="1" vertex="1">
