@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram id="2DjZL54lv7WErnkGeclx" name="第 1 页">
-    <mxGraphModel dx="4363" dy="2598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4197" dy="2513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -734,7 +734,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-8" value="部门" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1040" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="-850" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-12" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BwL2534HpO6Uo3g-z0oh-10" target="BwL2534HpO6Uo3g-z0oh-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
