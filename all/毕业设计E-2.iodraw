@@ -1275,13 +1275,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8hTN-vF5OHt708iuUxcz-46" value="照护" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-940" y="-235" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8hTN-vF5OHt708iuUxcz-47" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-790" y="-350" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8hTN-vF5OHt708iuUxcz-48" value="m" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-895" y="-265" width="30" height="30" as="geometry" />
+          <mxGeometry x="-1200" y="-90" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
