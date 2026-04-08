@@ -1028,6 +1028,15 @@
         <mxCell id="BwL2534HpO6Uo3g-z0oh-171" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BwL2534HpO6Uo3g-z0oh-147" target="BwL2534HpO6Uo3g-z0oh-151">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BwL2534HpO6Uo3g-z0oh-172" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BwL2534HpO6Uo3g-z0oh-147" target="BwL2534HpO6Uo3g-z0oh-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BwL2534HpO6Uo3g-z0oh-173" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BwL2534HpO6Uo3g-z0oh-147" target="BwL2534HpO6Uo3g-z0oh-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BwL2534HpO6Uo3g-z0oh-174" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BwL2534HpO6Uo3g-z0oh-147" target="BwL2534HpO6Uo3g-z0oh-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-147" value="操作日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-130" y="-1780" width="120" height="60" as="geometry" />
         </mxCell>
