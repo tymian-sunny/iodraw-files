@@ -1222,6 +1222,12 @@
         <mxCell id="8hTN-vF5OHt708iuUxcz-17" value="维护" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-760" y="-440" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="8hTN-vF5OHt708iuUxcz-32" value="盲人管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="-450" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8hTN-vF5OHt708iuUxcz-33" value="盲人管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="-445" width="110" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
