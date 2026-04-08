@@ -659,15 +659,12 @@
         <mxCell id="BwL2534HpO6Uo3g-z0oh-34" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BwL2534HpO6Uo3g-z0oh-1" target="BwL2534HpO6Uo3g-z0oh-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BwL2534HpO6Uo3g-z0oh-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-940.0009090909094" y="-402.41" as="sourcePoint" />
-            <mxPoint x="-1046.0824137931038" y="-337.5824137931033" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="BwL2534HpO6Uo3g-z0oh-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BwL2534HpO6Uo3g-z0oh-1" target="BwL2534HpO6Uo3g-z0oh-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8hTN-vF5OHt708iuUxcz-1" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BwL2534HpO6Uo3g-z0oh-39">
           <mxGeometry x="0.1699" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-10" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-42" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BwL2534HpO6Uo3g-z0oh-1" target="BwL2534HpO6Uo3g-z0oh-38" edge="1">
@@ -794,7 +791,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-56" value="维护" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-880" y="-350" width="80" height="80" as="geometry" />
+          <mxGeometry x="-890" y="-310" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-63" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BwL2534HpO6Uo3g-z0oh-60" target="BwL2534HpO6Uo3g-z0oh-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
