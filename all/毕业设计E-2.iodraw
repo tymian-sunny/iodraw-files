@@ -917,8 +917,11 @@
         <mxCell id="BwL2534HpO6Uo3g-z0oh-110" value="是否为外链" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1220" y="-1070" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BwL2534HpO6Uo3g-z0oh-111" value="是否缓存" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1200" y="-1245" width="120" height="60" as="geometry" />
+        <mxCell id="BwL2534HpO6Uo3g-z0oh-112" value="菜单类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1190" y="-1245" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BwL2534HpO6Uo3g-z0oh-113" value="菜单类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1040" y="-1270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
