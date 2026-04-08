@@ -718,7 +718,7 @@
           <mxGeometry x="-1050" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-2" value="菜单" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="-710" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="-700" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-3" value="登录日志" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="-1160" y="320" width="120" height="60" as="geometry" />
@@ -738,7 +738,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-7" value="角色信息" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="-705" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="-700" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-20" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=18;endArrow=none;endFill=0;" parent="1" source="BwL2534HpO6Uo3g-z0oh-8" target="BwL2534HpO6Uo3g-z0oh-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -768,7 +768,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-10" value="包含" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="-700" y="230" width="110" height="60" as="geometry" />
+          <mxGeometry x="-690" y="230" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-17" value="包含" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="-850" y="230" width="110" height="60" as="geometry" />
