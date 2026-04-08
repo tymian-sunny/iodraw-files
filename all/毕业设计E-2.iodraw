@@ -1119,10 +1119,10 @@
           <mxGeometry x="-2330" y="-707.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-184" value="字典ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1880" y="-680" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1920" y="-597.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-185" value="字典名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1750" y="-717.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1860" y="-707.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-186" value="字典数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3160" y="-550" width="120" height="60" as="geometry" />
@@ -1143,10 +1143,10 @@
           <mxGeometry x="-1740" y="-587.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-188" value="字典类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1540" y="-540" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1690" y="-697.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-191" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1700" y="-480" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1550" y="-587.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-198" value="字典编码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2530" y="-750" width="120" height="60" as="geometry" />
