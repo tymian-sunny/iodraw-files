@@ -576,8 +576,14 @@
         <mxCell id="2X-_TdyhJeL_-qJ7LdlL-9" value="操作日志管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="990" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2X-_TdyhJeL_-qJ7LdlL-10" value="操作日志管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2X-_TdyhJeL_-qJ7LdlL-10" value="登录日志管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="1060" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2X-_TdyhJeL_-qJ7LdlL-11" value="岗位信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1090" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2X-_TdyhJeL_-qJ7LdlL-12" value="岗位信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1140" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
