@@ -557,40 +557,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WcmzbE-rzrUD3LKKgyzw-16" value="用户管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="-790" width="80" height="20" as="geometry" />
+          <mxGeometry x="220" y="-1170" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WcmzbE-rzrUD3LKKgyzw-17" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;elbow=vertical;endArrow=none;endFill=0;" edge="1" source="WcmzbE-rzrUD3LKKgyzw-18" target="WcmzbE-rzrUD3LKKgyzw-16" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WcmzbE-rzrUD3LKKgyzw-18" value="登录注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="-730" width="20" height="150" as="geometry" />
+          <mxGeometry x="230" y="-1100" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="WcmzbE-rzrUD3LKKgyzw-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" source="WcmzbE-rzrUD3LKKgyzw-20" target="WcmzbE-rzrUD3LKKgyzw-16" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WcmzbE-rzrUD3LKKgyzw-20" value="个人信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="-730" width="20" height="150" as="geometry" />
+          <mxGeometry x="270" y="-1100" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="WcmzbE-rzrUD3LKKgyzw-21" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;elbow=vertical;endArrow=none;endFill=0;" edge="1" source="WcmzbE-rzrUD3LKKgyzw-22" target="WcmzbE-rzrUD3LKKgyzw-16" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WcmzbE-rzrUD3LKKgyzw-22" value="身份管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="-730" width="20" height="150" as="geometry" />
+          <mxGeometry x="350" y="-1100" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="WcmzbE-rzrUD3LKKgyzw-23" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;elbow=vertical;endArrow=none;endFill=0;" edge="1" source="WcmzbE-rzrUD3LKKgyzw-24" target="WcmzbE-rzrUD3LKKgyzw-16" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WcmzbE-rzrUD3LKKgyzw-24" value="问题反馈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="-730" width="20" height="150" as="geometry" />
+          <mxGeometry x="190" y="-1100" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="WcmzbE-rzrUD3LKKgyzw-25" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;elbow=vertical;endArrow=none;endFill=0;" edge="1" source="WcmzbE-rzrUD3LKKgyzw-26" target="WcmzbE-rzrUD3LKKgyzw-16" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WcmzbE-rzrUD3LKKgyzw-26" value="亲人朋友管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-730" width="20" height="150" as="geometry" />
+          <mxGeometry x="310" y="-1100" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="WcmzbE-rzrUD3LKKgyzw-27" value="后台管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="-730" width="20" height="150" as="geometry" />
+          <mxGeometry x="150" y="-1100" width="20" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
