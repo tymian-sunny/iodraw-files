@@ -744,7 +744,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-29" value="维护" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-740" y="-530" width="80" height="80" as="geometry" />
+          <mxGeometry x="-930" y="-560" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-33" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BwL2534HpO6Uo3g-z0oh-32" target="BwL2534HpO6Uo3g-z0oh-7">
           <mxGeometry relative="1" as="geometry" />
@@ -775,6 +775,12 @@
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-49" value="维护" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1090" y="-410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BwL2534HpO6Uo3g-z0oh-54" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BwL2534HpO6Uo3g-z0oh-53" target="BwL2534HpO6Uo3g-z0oh-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BwL2534HpO6Uo3g-z0oh-53" value="维护" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="-550" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
