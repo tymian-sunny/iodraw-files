@@ -671,8 +671,17 @@
         <mxCell id="BwL2534HpO6Uo3g-z0oh-6" value="岗位信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-640" y="-160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BwL2534HpO6Uo3g-z0oh-19" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BwL2534HpO6Uo3g-z0oh-7" target="BwL2534HpO6Uo3g-z0oh-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BwL2534HpO6Uo3g-z0oh-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BwL2534HpO6Uo3g-z0oh-7" target="BwL2534HpO6Uo3g-z0oh-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-7" value="角色信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-400" y="-420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BwL2534HpO6Uo3g-z0oh-20" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BwL2534HpO6Uo3g-z0oh-8" target="BwL2534HpO6Uo3g-z0oh-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-8" value="部门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-380" y="-220" width="120" height="60" as="geometry" />
@@ -689,8 +698,14 @@
         <mxCell id="BwL2534HpO6Uo3g-z0oh-15" value="岗位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-570" y="-260" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BwL2534HpO6Uo3g-z0oh-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BwL2534HpO6Uo3g-z0oh-16" target="BwL2534HpO6Uo3g-z0oh-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-16" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-515" y="-420" width="80" height="80" as="geometry" />
+          <mxGeometry x="-480" y="-370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BwL2534HpO6Uo3g-z0oh-17" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="-330" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
