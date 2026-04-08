@@ -778,7 +778,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-25" value="字典类型" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1350" y="-191.25" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1360" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-26" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1190" y="-250" width="110" height="60" as="geometry" />
@@ -792,7 +792,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-29" value="维护" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1290" y="-100" width="110" height="60" as="geometry" />
+          <mxGeometry x="-1200" y="130" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-33" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BwL2534HpO6Uo3g-z0oh-32" target="BwL2534HpO6Uo3g-z0oh-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
