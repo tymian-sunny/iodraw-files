@@ -977,6 +977,15 @@
         <mxCell id="BwL2534HpO6Uo3g-z0oh-143" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BwL2534HpO6Uo3g-z0oh-131" target="BwL2534HpO6Uo3g-z0oh-136">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BwL2534HpO6Uo3g-z0oh-144" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BwL2534HpO6Uo3g-z0oh-131" target="BwL2534HpO6Uo3g-z0oh-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BwL2534HpO6Uo3g-z0oh-145" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BwL2534HpO6Uo3g-z0oh-131" target="BwL2534HpO6Uo3g-z0oh-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BwL2534HpO6Uo3g-z0oh-146" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BwL2534HpO6Uo3g-z0oh-131" target="BwL2534HpO6Uo3g-z0oh-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-131" value="登录日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-880" y="-1195" width="120" height="60" as="geometry" />
         </mxCell>
@@ -984,10 +993,10 @@
           <mxGeometry x="-880" y="-1320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-133" value="用户名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-720" y="-1330" width="120" height="60" as="geometry" />
+          <mxGeometry x="-750" y="-1307.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-134" value="登录IP地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-720" y="-1217.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="-680" y="-1200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-136" value="浏览器类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-760" y="-1110" width="120" height="60" as="geometry" />
