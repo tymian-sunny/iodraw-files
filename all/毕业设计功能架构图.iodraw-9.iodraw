@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram id="i46XEUoI2MzPq2HorQOR" name="第 1 页">
-    <mxGraphModel dx="1211" dy="1745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1380" dy="1858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -552,6 +552,54 @@
         </mxCell>
         <mxCell id="WcmzbE-rzrUD3LKKgyzw-1" value="后台管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="-740" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="WcmzbE-rzrUD3LKKgyzw-3" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;endArrow=none;endFill=0;" edge="1" target="WcmzbE-rzrUD3LKKgyzw-14" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-20" y="-770" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WcmzbE-rzrUD3LKKgyzw-4" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;elbow=vertical;endArrow=none;endFill=0;" edge="1" source="WcmzbE-rzrUD3LKKgyzw-5" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-20" y="-770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WcmzbE-rzrUD3LKKgyzw-5" value="登录注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="-730" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="WcmzbE-rzrUD3LKKgyzw-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" source="WcmzbE-rzrUD3LKKgyzw-7" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-20" y="-770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WcmzbE-rzrUD3LKKgyzw-7" value="个人信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-730" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="WcmzbE-rzrUD3LKKgyzw-8" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;elbow=vertical;endArrow=none;endFill=0;" edge="1" source="WcmzbE-rzrUD3LKKgyzw-9" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-20" y="-770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WcmzbE-rzrUD3LKKgyzw-9" value="身份管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-730" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="WcmzbE-rzrUD3LKKgyzw-10" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;elbow=vertical;endArrow=none;endFill=0;" edge="1" source="WcmzbE-rzrUD3LKKgyzw-11" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-20" y="-770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WcmzbE-rzrUD3LKKgyzw-11" value="问题反馈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="-730" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="WcmzbE-rzrUD3LKKgyzw-12" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;elbow=vertical;endArrow=none;endFill=0;" edge="1" source="WcmzbE-rzrUD3LKKgyzw-13" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-20" y="-770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WcmzbE-rzrUD3LKKgyzw-13" value="亲人朋友管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-730" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="WcmzbE-rzrUD3LKKgyzw-14" value="后台管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="-730" width="20" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
