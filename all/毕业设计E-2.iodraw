@@ -344,7 +344,7 @@
         </mxCell>
         <mxCell id="8hTN-vF5OHt708iuUxcz-59" value="m" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="8hTN-vF5OHt708iuUxcz-43">
           <mxGeometry x="-0.6412" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zyPz85Wz-K_P-9-572Lf-15" value="盲人管理" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1248,7 +1248,7 @@
         </mxCell>
         <mxCell id="8hTN-vF5OHt708iuUxcz-55" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="8hTN-vF5OHt708iuUxcz-51">
           <mxGeometry x="0.1563" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="10" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8hTN-vF5OHt708iuUxcz-32" value="盲人管理" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;" vertex="1" parent="1">
@@ -1301,7 +1301,7 @@
         </mxCell>
         <mxCell id="8hTN-vF5OHt708iuUxcz-58" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="8hTN-vF5OHt708iuUxcz-45">
           <mxGeometry x="-0.083" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8hTN-vF5OHt708iuUxcz-46" value="照护" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;" vertex="1" parent="1">
