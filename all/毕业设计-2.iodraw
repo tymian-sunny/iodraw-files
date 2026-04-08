@@ -577,7 +577,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2X-_TdyhJeL_-qJ7LdlL-1" value="后台管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="900" width="80" height="40" as="geometry" />
+          <mxGeometry x="110" y="890" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2X-_TdyhJeL_-qJ7LdlL-16" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2X-_TdyhJeL_-qJ7LdlL-5" target="2X-_TdyhJeL_-qJ7LdlL-7">
           <mxGeometry relative="1" as="geometry" />
@@ -595,13 +595,13 @@
           <mxGeometry x="390" y="930" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2X-_TdyhJeL_-qJ7LdlL-9" value="操作日志管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="990" width="80" height="40" as="geometry" />
+          <mxGeometry x="260" y="940" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2X-_TdyhJeL_-qJ7LdlL-10" value="登录日志管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="1060" width="80" height="40" as="geometry" />
+          <mxGeometry x="260" y="1010" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2X-_TdyhJeL_-qJ7LdlL-11" value="岗位信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1090" width="80" height="40" as="geometry" />
+          <mxGeometry x="110" y="1030" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2X-_TdyhJeL_-qJ7LdlL-18" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2X-_TdyhJeL_-qJ7LdlL-12" target="2X-_TdyhJeL_-qJ7LdlL-15">
           <mxGeometry relative="1" as="geometry" />
