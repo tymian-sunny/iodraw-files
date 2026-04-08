@@ -678,10 +678,10 @@
           <mxGeometry x="-610" y="-495" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-3" value="登录日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1000" y="-270" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1150" y="-250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-5" value="操作日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-800" y="-250" width="120" height="60" as="geometry" />
+          <mxGeometry x="-930" y="-150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-6" value="岗位信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-730" y="-100" width="120" height="60" as="geometry" />
@@ -759,13 +759,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-37" value="维护" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-990" y="-380" width="80" height="80" as="geometry" />
+          <mxGeometry x="-1050" y="-340" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-43" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BwL2534HpO6Uo3g-z0oh-38" target="BwL2534HpO6Uo3g-z0oh-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-38" value="查看" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-860" y="-355" width="80" height="80" as="geometry" />
+          <mxGeometry x="-990" y="-320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-47" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BwL2534HpO6Uo3g-z0oh-44" target="BwL2534HpO6Uo3g-z0oh-6">
           <mxGeometry relative="1" as="geometry" />
@@ -784,6 +784,9 @@
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-53" value="维护" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-750" y="-550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BwL2534HpO6Uo3g-z0oh-56" value="维护" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="-350" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
