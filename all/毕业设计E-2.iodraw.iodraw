@@ -927,7 +927,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-90" value="角色信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-850" y="-1595" width="120" height="60" as="geometry" />
+          <mxGeometry x="-760" y="-1475" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-91" value="角色ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-840" y="-1720" width="120" height="60" as="geometry" />
@@ -939,7 +939,7 @@
           <mxGeometry x="-640" y="-1605" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-94" value="状态" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-730" y="-1495" width="120" height="60" as="geometry" />
+          <mxGeometry x="-610" y="-1515" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-116" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="BwL2534HpO6Uo3g-z0oh-102" target="BwL2534HpO6Uo3g-z0oh-103" edge="1">
           <mxGeometry relative="1" as="geometry" />
