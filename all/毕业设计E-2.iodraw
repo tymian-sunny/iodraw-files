@@ -1094,8 +1094,8 @@
         <mxCell id="BwL2534HpO6Uo3g-z0oh-164" value="操作时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="-1750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BwL2534HpO6Uo3g-z0oh-180" value="登录日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-870" y="-1185" width="120" height="60" as="geometry" />
+        <mxCell id="BwL2534HpO6Uo3g-z0oh-181" value="字典数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1560" y="-570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
