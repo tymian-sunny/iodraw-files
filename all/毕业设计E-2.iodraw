@@ -679,7 +679,7 @@
           <mxGeometry x="-950" y="-460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-2" value="菜单" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-360" y="-450" width="10" height="40" as="geometry" />
+          <mxGeometry x="-480" y="-450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-3" value="登录日志" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1250" y="-240" width="120" height="60" as="geometry" />
@@ -712,7 +712,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-10" value="包含" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-525" y="-435" width="80" height="80" as="geometry" />
+          <mxGeometry x="-610" y="-495" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BwL2534HpO6Uo3g-z0oh-16" target="BwL2534HpO6Uo3g-z0oh-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -727,7 +727,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-24" value="字典数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1060" y="-630" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1030" y="-750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-27" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BwL2534HpO6Uo3g-z0oh-25" target="BwL2534HpO6Uo3g-z0oh-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -742,7 +742,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-29" value="维护" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-930" y="-560" width="80" height="80" as="geometry" />
+          <mxGeometry x="-1080" y="-510" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-33" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BwL2534HpO6Uo3g-z0oh-32" target="BwL2534HpO6Uo3g-z0oh-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
