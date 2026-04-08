@@ -914,7 +914,7 @@
         <mxCell id="BwL2534HpO6Uo3g-z0oh-109" value="路由名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1240" y="-1150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BwL2534HpO6Uo3g-z0oh-110" value="路由参数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BwL2534HpO6Uo3g-z0oh-110" value="是否为外链" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1220" y="-1070" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
