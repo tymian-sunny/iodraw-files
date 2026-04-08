@@ -1232,7 +1232,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8hTN-vF5OHt708iuUxcz-32" value="盲人管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="10" width="110" height="60" as="geometry" />
+          <mxGeometry x="-1050" y="10" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8hTN-vF5OHt708iuUxcz-34" value="盲人管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1295" y="-900" width="110" height="60" as="geometry" />
@@ -1269,7 +1269,7 @@
           <mxGeometry x="-870" y="-90" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8hTN-vF5OHt708iuUxcz-44" value="家人/朋友" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-730" y="-220" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1360" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8hTN-vF5OHt708iuUxcz-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" source="8hTN-vF5OHt708iuUxcz-46" target="8hTN-vF5OHt708iuUxcz-36" parent="1">
           <mxGeometry relative="1" as="geometry" />
