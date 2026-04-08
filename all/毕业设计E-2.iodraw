@@ -791,8 +791,11 @@
         <mxCell id="BwL2534HpO6Uo3g-z0oh-60" value="维护" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-790" y="-360" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="BwL2534HpO6Uo3g-z0oh-72" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BwL2534HpO6Uo3g-z0oh-64" target="BwL2534HpO6Uo3g-z0oh-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-64" value="部门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1140" y="-1045" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1140" y="-1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-65" value="部门id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1280" y="-1195" width="120" height="60" as="geometry" />
@@ -806,7 +809,7 @@
         <mxCell id="BwL2534HpO6Uo3g-z0oh-68" value="负责人" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-930" y="-1090" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BwL2534HpO6Uo3g-z0oh-69" value="手机号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BwL2534HpO6Uo3g-z0oh-69" value="联系电话" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-970" y="-980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-70" value="邮箱" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
