@@ -888,7 +888,7 @@
           <mxGeometry x="-1100" y="-1760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-80" value="岗位" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2010" y="-1495" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2000" y="-1495" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-85" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="BwL2534HpO6Uo3g-z0oh-81" target="BwL2534HpO6Uo3g-z0oh-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -900,7 +900,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-82" value="岗位编码" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2110" y="-1605" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2100" y="-1605" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-88" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="BwL2534HpO6Uo3g-z0oh-83" target="BwL2534HpO6Uo3g-z0oh-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
