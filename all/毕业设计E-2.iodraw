@@ -756,7 +756,7 @@
           <mxGeometry x="-640" y="160" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-17" value="包含" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-910" y="200" width="140" height="65" as="geometry" />
+          <mxGeometry x="-900" y="167.5" width="140" height="65" as="geometry" />
         </mxCell>
         <mxCell id="BwL2534HpO6Uo3g-z0oh-28" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BwL2534HpO6Uo3g-z0oh-24" target="BwL2534HpO6Uo3g-z0oh-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1241,7 +1241,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8hTN-vF5OHt708iuUxcz-35" value="志愿者管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-735" y="200" width="110" height="60" as="geometry" />
+          <mxGeometry x="-745" y="170" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8hTN-vF5OHt708iuUxcz-36" value="盲人用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-925" y="-230" width="120" height="60" as="geometry" />
