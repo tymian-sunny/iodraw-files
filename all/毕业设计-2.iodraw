@@ -582,7 +582,7 @@
         </mxCell>
         <mxCell id="2X-_TdyhJeL_-qJ7LdlL-31" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2X-_TdyhJeL_-qJ7LdlL-21" vertex="1" connectable="0">
           <mxGeometry x="-0.1941" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="17" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2X-_TdyhJeL_-qJ7LdlL-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="2X-_TdyhJeL_-qJ7LdlL-1" target="2X-_TdyhJeL_-qJ7LdlL-11" edge="1">
@@ -598,7 +598,7 @@
         </mxCell>
         <mxCell id="2X-_TdyhJeL_-qJ7LdlL-32" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2X-_TdyhJeL_-qJ7LdlL-23" vertex="1" connectable="0">
           <mxGeometry x="-0.1008" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="14" y="21" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2X-_TdyhJeL_-qJ7LdlL-1" value="后台管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
